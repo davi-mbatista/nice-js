@@ -19,3 +19,4 @@ A collection of tools and libraries that I've used or saved along the way
 
 [PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/) by [Box Factura](https://github.com/BoxFactura)
 
+[date-fns](https://date-fns.org/) by [date-fns](https://github.com/date-fns)
